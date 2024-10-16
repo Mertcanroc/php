@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65b1d93f-29b9-4040-bb34-f29754c349ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/les6/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/dbconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabellen/fietsenmaker.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +44,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php\tabellen" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,6 +67,7 @@
       <updated>1727261094225</updated>
       <workItem from="1727261095242" duration="606000" />
       <workItem from="1728466116219" duration="5390000" />
+      <workItem from="1729071419675" duration="4161000" />
     </task>
     <servers />
   </component>
