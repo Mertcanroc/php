@@ -29,6 +29,6 @@
     {
         return $this->geslacht; 
     }
-
+    
 }
 }
