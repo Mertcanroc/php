@@ -2,7 +2,7 @@
 $db = new PDO("mysql:host=localhost;dbname=fietsenmaker",
 "root", "");
 include_once  "Fiets.php";
-$query = $db->prepare('SELECT * FROM fiets');
+$query = $db->prepare('SELECT * FROM review');
 $query->execute();
 $fietsen = $query->fetchAll(PDO::FETCH_CLASS, 'Fiets');
 
