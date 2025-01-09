@@ -2,7 +2,8 @@
 
 require 'SavingAccount.php';
 
+$account = new SavingAccount("piet",100,0.05);
 
-$account = new SavingAccount();
-$account->deposit(100);
+$account->addInterest();
 echo $account->getBalance();
+?>
